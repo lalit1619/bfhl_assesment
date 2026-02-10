@@ -34,5 +34,5 @@ The following environment variables are required:
 
 ```env
 OFFICIAL_EMAIL=lalit1619.be23@chitkara.edu.in
-OPENAI_API_KEY=your_gemini_api_key
+OPENAI_API_KEY=your_openai_api_key
 RATE_LIMIT_RPM=60
