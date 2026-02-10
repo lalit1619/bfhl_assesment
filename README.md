@@ -23,7 +23,7 @@ https://github.com/lalit1619/bfhl_assesment
 
 - Node.js
 - Express.js
-- Google Gemini API
+- OpenAI API
 - Vercel (Deployment)
 
 ---
@@ -34,5 +34,5 @@ The following environment variables are required:
 
 ```env
 OFFICIAL_EMAIL=lalit1619.be23@chitkara.edu.in
-GEMINI_API_KEY=your_gemini_api_key
+OPENAI_API_KEY=your_gemini_api_key
 RATE_LIMIT_RPM=60
